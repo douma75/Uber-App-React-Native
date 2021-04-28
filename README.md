@@ -1,6 +1,6 @@
 # Uber-App-React-Native
 
-<p float="left">
+<p >
 
 <img src="https://user-images.githubusercontent.com/73642253/116432988-c1130a80-a851-11eb-8d33-ad15f5dcd087.png" />
 
@@ -12,7 +12,7 @@
 
 &nbsp;
 
-<p float="left">
+<p>
 
 <img src="https://user-images.githubusercontent.com/73642253/116432996-c4a69180-a851-11eb-9dd1-c996e5db6521.png" />
 
