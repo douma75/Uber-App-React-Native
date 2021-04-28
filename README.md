@@ -1,13 +1,13 @@
 # Uber-App-React-Native
 
-<p >
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/73642253/116432988-c1130a80-a851-11eb-8d33-ad15f5dcd087.png" />
 
 
 <img src="https://user-images.githubusercontent.com/73642253/116432992-c40dfb00-a851-11eb-8b71-c2a29745bae0.png" />
 
-</p>
+</div>
 
 
 &nbsp;
