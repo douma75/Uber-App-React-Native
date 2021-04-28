@@ -23,6 +23,7 @@
 </div>
 
 &nbsp;
-<div align="center"
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73642253/116433000-c4a69180-a851-11eb-841e-23581ae97d29.png" />
 </div>
